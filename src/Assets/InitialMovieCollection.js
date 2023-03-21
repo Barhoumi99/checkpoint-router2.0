@@ -6,7 +6,8 @@ const initialMovieCollection = [
         year: 1994,
         rating:9.3,
         story: "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-        favourite: false
+        favourite: false,
+        trailer: <iframe width="450" height="315" src="https://www.youtube.com/embed/NmzuHjWmXOc" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
     },
     {
         id: 1,
@@ -15,7 +16,8 @@ const initialMovieCollection = [
         year: 2012,
         rating:8.4,
         story: "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.",
-        favourite: false
+        favourite: false,
+        trailer: <iframe width="450" height="315" src="https://www.youtube.com/embed/0fUCuvNlOCg" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
     },
     {
         id: 2,
@@ -24,7 +26,8 @@ const initialMovieCollection = [
         year: 2002,
         rating: 8.8,
         story: "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
-        favourite: false
+        favourite: false,
+        trailer: <iframe width="450" height="315" src="https://www.youtube.com/embed/LbfMDwc4azU" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
     },
     {
         id: 3,
@@ -33,7 +36,8 @@ const initialMovieCollection = [
         year: 2014,
         rating: 8.6,
         story: "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
-        favourite: false
+        favourite: false,
+        trailer: <iframe width="450" height="315" src="https://www.youtube.com/embed/zSWdZVtXT7E" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
     },
     {
         id: 4,
@@ -42,7 +46,8 @@ const initialMovieCollection = [
         year: 1972,
         rating:9.2,
         story: "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
-        favourite: false
+        favourite: false,
+        trailer: <iframe width="450" height="315" src="https://www.youtube.com/embed/UaVTIH8mujA" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
     },
     {
         id: 5,
@@ -51,7 +56,8 @@ const initialMovieCollection = [
         year: 1994,
         rating: 8.8,
         story: "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
-        favourite: false
+        favourite: false,
+        trailer: <iframe width="450" height="315" src="https://www.youtube.com/embed/bLvqoHBptjg" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
     },
     {
         id: 6,
@@ -60,7 +66,8 @@ const initialMovieCollection = [
         year: 1957,
         rating: 9.0,
         story: "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
-        favourite: false
+        favourite: false,
+        trailer: <iframe width="450" height="315" src="https://www.youtube.com/embed/TEN-2uTi2c0" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
     },
     {
         id: 7,
@@ -69,7 +76,8 @@ const initialMovieCollection = [
         year: 2016,
         rating: 7.2,
         story: "The story of the life and academic career of the pioneer Indian mathematician, Srinivasa Ramanujan, and his friendship with his mentor, Professor G.H. Hardy.",
-        favourite: false
+        favourite: false,
+        trailer: <iframe width="450" height="315" src="https://www.youtube.com/embed/oXGm9Vlfx4w" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
     },
     {
         id: 8,
@@ -78,7 +86,8 @@ const initialMovieCollection = [
         year: 2006,
         rating: 6.8,
         story: "A lonely doctor who once occupied an unusual lakeside house begins to exchange love letters with its former resident, a frustrated architect. They must try to unravel the mystery behind their extraordinary romance before it's too late.",
-        favourite: false
+        favourite: false,
+        trailer: <iframe width="450" height="315" src="https://www.youtube.com/embed/V02lqEpbk2Y" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
     },
 ]
 export default initialMovieCollection

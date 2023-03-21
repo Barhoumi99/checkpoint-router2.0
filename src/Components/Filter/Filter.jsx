@@ -1,8 +1,9 @@
 import React from 'react'
+import './Filter.css'
 
 const Filter = ({ search, ratingFilter }) => {
   return (
-    <div>
+    <div className='filter'>
         <input 
             placeholder='Search...'
             onChange={ event => {
