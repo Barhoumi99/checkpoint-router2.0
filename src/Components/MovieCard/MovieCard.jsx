@@ -16,7 +16,7 @@ const MovieCard = ({ movie, deleteMovie }) => {
           <Card.Title>{movie.title}</Card.Title>
             <span>{movie.rating} /10</span>
           <Button variant="primary">See Details</Button>
-          <Button variant="danger" onClick={handleDelete(movie.id)}>Delete</Button>
+          <Button variant="danger" onClick={() => handleDelete(movie.id)}>Delete</Button>
         </Card.Body>
       </Card>
     </div>
